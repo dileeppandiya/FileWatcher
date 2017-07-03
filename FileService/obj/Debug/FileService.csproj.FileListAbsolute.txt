@@ -1,0 +1,15 @@
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\bin\Debug\FileService.exe.config
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\bin\Debug\FileService.exe
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\bin\Debug\FileService.pdb
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\obj\Debug\FileService.ProjectInstaller.resources
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\obj\Debug\FileService.csproj.GenerateResource.Cache
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\obj\Debug\FileService.exe
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\obj\Debug\FileService.pdb
+C:\test\FileService.exe.config
+C:\test\FileService.exe
+C:\test\FileService.pdb
+C:\test1\FileService.exe.config
+C:\test1\FileService.exe
+C:\test1\FileService.pdb
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\obj\Debug\FileService.Service1.resources
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileService\obj\Debug\FileService.csprojResolveAssemblyReference.cache

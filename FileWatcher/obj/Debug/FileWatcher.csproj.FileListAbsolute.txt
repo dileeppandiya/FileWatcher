@@ -1,0 +1,10 @@
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\EntityFramework.dll
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\EntityFramework.SqlServer.dll
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\EntityFramework.xml
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\EntityFramework.SqlServer.xml
+\\env.govt.state.ma.us\enterprise\dep-winter-u-home\dileep.pandiya\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csprojResolveAssemblyReference.cache
